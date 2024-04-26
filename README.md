@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SahuNandan
+- 👋 Hi, I’m @Panda_Po
 - 👀 I’m interested in ... "👀 I’m interested in web development, machine learning, and open-source projects."
 - 🌱 I’m currently learning ..."🌱 I’m currently learning React.js and improving my Python skills."
 - 💞️ I’m looking to collaborate on ..."💞️ I’m looking to collaborate on projects related to data visualization and front-end development."
